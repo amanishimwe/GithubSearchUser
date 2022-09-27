@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sarabun&display=swap');
+:root{
+    --baby-blue-eyes: #91c4f2ff;
+    --wild-blue-yonder: #8ca0d7ff;
+    --purple-mountain-majesty: #9d79bcff;
+    --purpureus: #a14da0ff;
+    --mardi-gras: #7e1f86ff;
+}
+*{
+    padding:0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+.main{
+    background-image: url('https://assets.entrepreneur.com/content/3x2/2000/1654176241-GettyImages-1397336940.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    
+}

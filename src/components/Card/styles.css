@@ -1,0 +1,19 @@
+@import '../../globalStyles/styles.css';
+.wrapper{
+    background-color: var(--mardi-gras);
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 0.5rem;
+    padding: 2rem;
+}
+.wrapper h1{
+    color: whitesmoke;
+}
+.wrapper p {
+    color: gold;
+}
+.error{
+    color:gold;
+}
